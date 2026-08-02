@@ -1,0 +1,19 @@
+{
+    "name": "RunnerPrototype.Infrastructure",
+    "rootNamespace": "Studio.Runner3d.Features.RunnerPrototype.Infrastructure",
+    "references": [
+        "RunnerPrototype.Domain",
+        "RunnerPrototype.Application",
+        "Unity.Addressables",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
