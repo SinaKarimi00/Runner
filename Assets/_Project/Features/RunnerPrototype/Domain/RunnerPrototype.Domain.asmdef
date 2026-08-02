@@ -1,0 +1,14 @@
+{
+    "name": "RunnerPrototype.Domain",
+    "rootNamespace": "Studio.Runner3d.Features.RunnerPrototype.Domain",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
