@@ -1,0 +1,23 @@
+{
+    "name": "RunnerPrototype.Presentation",
+    "rootNamespace": "Studio.Runner3d.Features.RunnerPrototype.Presentation",
+    "references": [
+        "RunnerPrototype.Domain",
+        "RunnerPrototype.Application",
+        "RunnerPrototype.Infrastructure",
+        "Cinemachine",
+        "Unity.TextMeshPro",
+        "Unity.ugui",
+        "Unity.Addressables",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
